@@ -26,9 +26,7 @@ addictions.
 ## Repo Location: 
 [Github](https://github.com/Team-Avatar-21/navigate_recovery_platform.git)	
 
-##  Discord: 
-Already invited. But if you need another invited: https://discord.gg/aUEhpqMM
-This invite link will expire in 7 days from 02/18/2021
+
 	
 
 
